@@ -15,11 +15,15 @@ Link to the dataset: https://zenodo.org/record/7012043
 
 
 
-parser.py and constants.py are taken from https://github.com/signavio/sap-sam.
+parser.py, constants.py, environment.yml are taken from https://github.com/signavio/sap-sam.
 
 Sola, D., Warmuth, C., Schäfer, B., Badakhshan, P., Rehse, J., & Kampik, T. (2023). SAP Signavio Academic Models: A Large Process Model Dataset. In Lecture notes in business information processing (pp. 453–465). Springer Science+Business Media. https://doi.org/10.1007/978-3-031-27815-0_33
 
 
+#Set Up 
 
+You need to download the dataset and place it into the folder ./data/raw such that the models are in ./data/raw/sap_sam_2022/models.
+
+environment.yml file that can be used to create a new environment and install the required dependencies.
 
 
