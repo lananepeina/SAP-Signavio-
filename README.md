@@ -22,7 +22,7 @@ Sola, D., Warmuth, C., Schäfer, B., Badakhshan, P., Rehse, J., & Kampik, T. (20
 
 # Set Up 
 
-- You need to download the dataset and place it into the folder ./data/raw such that the models are in ./data/raw/sap_sam_2022/models.
+- You need to download the dataset and place it into the folder ./SAP-Signavio-/data/raw such that the models are in ./data/raw/sap_sam_2022/models.
 
 - environment.yml is the file that can be used to create a new environment and install the required dependencies.
 
