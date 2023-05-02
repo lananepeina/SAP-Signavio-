@@ -1,7 +1,7 @@
 from pathlib import Path
 
 PROJECT_ROOT: Path = Path(__file__).parents[2].resolve()
-DATA_ROOT = PROJECT_ROOT "SAP-Signavio-"/ "data"
+DATA_ROOT = PROJECT_ROOT / "SAP-Signavio-" / "data"
 DATA_RAW = DATA_ROOT / "raw"
 DATA_DATASET = DATA_RAW / "sap_sam_2022" / "models"
 DATA_INTERIM = DATA_ROOT / "interim"
